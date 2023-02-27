@@ -1,4 +1,4 @@
-# Advanced todo Application with React-Redux-Thunk
+# Advanced TODO Application with React-Redux-Thunk
 
 ## Table of contents
 
@@ -42,7 +42,6 @@ $ npm start
 
 ### Deployed Version
 
-Deployed version of the application can be found at this link - ``
+Deployed version of the application can be found at this link - `https://advanced-todo-app-with-redux.netlify.app/`
 
 This app is inspired by Think in Redux Way course by LWS.
-# Advanced-Todo-App-with-Redux-Thunk

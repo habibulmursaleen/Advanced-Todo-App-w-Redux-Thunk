@@ -4,7 +4,7 @@
       "id": 1,
       "text": "Learn Vanilla JavaScript",
       "completed": true,
-      "color": "yellow"
+      "color": "red"
     },
     {
       "id": 2,

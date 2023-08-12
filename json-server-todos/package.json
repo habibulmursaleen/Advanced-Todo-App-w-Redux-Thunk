@@ -1,5 +1,5 @@
 {
-  "name": "json-server-todos",
+  "name": "lws-json-server-todos",
   "description": "Example in memory todos api with json-server",
   "version": "1.0.0",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "start": "json-server --watch db.json --no-cors true  --port 9000"
   },
   "dependencies": {
-    "json-server": "^0.17.0"
+    "json-server": "^0.17.1"
   },
   "keywords": [],
   "author": "S M Habibul Mursaleen Chowdhury"
